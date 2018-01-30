@@ -1,1 +1,15 @@
 /* This is a comment */
+/* CSS Syntax:
+
+selector {
+  property: value;
+  property: value;
+  property: value;
+}
+*/
+
+/* Type Selector */
+
+p { /* select all <p> */
+  font-size: 16px; /* could be 16 px, ?pt, 100% (relative amount based upon element and parent element), 1 em (relative size, but usually equal to 16px)*/
+}
