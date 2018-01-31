@@ -67,3 +67,8 @@ font-family: 'Clicker Script', cursive;
   color: black;
   text-decoration: none;
 }
+
+#detaila a:hover {
+  color: black;
+  text-decoration: underline;
+}
