@@ -59,7 +59,7 @@ font-family: 'Clicker Script', cursive;
   color: black;
   text-decoration: none;
 }
-#details a:link, #details a:visited { /* combo of a descendent selector and a pseudo selector */
+#details a:link, #details a:visited { /* combo of descendent selectors and pseudo selectors */
   color: black;
   text-decoration: none;
 }
