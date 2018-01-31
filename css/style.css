@@ -55,7 +55,7 @@ font-family: 'Clicker Script', cursive;
 
 /* Pseudo Selectors */
 
-#details a:link {
+#details a:link { /* combo of a descendent selector with a pseudo selector */
   color: black;
   text-decoration: none;
 }
