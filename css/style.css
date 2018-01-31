@@ -39,7 +39,7 @@ figcaption {
 
 /* ID Selectors (applied to one unique element per page) */
 
-#logo { select elements with id="logo"
+#logo { /* select elements with id="logo" */
   background: aqua;
 }
 
